@@ -19,6 +19,7 @@ Small sized per floor (50x50 tiles?)
 No character creation:
 Unique, Named
 Raph (Close friend) gets to name
+
 Playstyles (chosen at the start): Fighter, Wizard, Magus
 
 Spell system:
